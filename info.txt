@@ -1,0 +1,11 @@
+Bei dem Spiel "Planeten-Eroberung" handelt es sich um ein rundenbasiertes Strategiespiel für einen Spieler, dass in einem Science-Fiction-Szenario angesiedelt ist.
+
+Dein Ziel ist die totale galaktische Herrschaft. Du spielst gegen 1 bis 5 computergesteuerte Gegner, deren Schwierigkeitsgrad (Leicht, Normal, Schwer) du vorab festlegen kannst. Jede KI besitzt eine eigene Persönlichkeit (z.B. aggressiv oder defensiv), die ihr Verhalten beeinflusst.
+
+Das Spiel gliedert sich in Runden, die jeweils aus drei Phasen bestehen:
+
+- Verstärkungsphase: Du erhältst neue Raumschiffe, deren Anzahl sich nach der Menge deiner kontrollierten Planeten richtet.
+- Angriffsphase: Du kannst benachbarte feindliche Planeten attackieren.
+- Befestigungsphase: Du darfst einmalig Truppen zwischen zwei eigenen, verbundenen Planeten verschieben.
+
+Kämpfe werden Schiff für Schiff entschieden, wobei der verteidigende Spieler eine leicht höhere Siegchance von 55% hat. Du gewinnst die Partie, wenn du als letzter Spieler noch Planeten besitzt.
